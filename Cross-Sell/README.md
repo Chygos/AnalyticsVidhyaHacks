@@ -23,3 +23,16 @@ communication strategy to reach out to those customers and optimise its business
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), 
 Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
+
+
+
+<h4>LB Scores -</h4>
+    
+                                Final Score                  Private Score
+                                
+        Stack\t             0.858303368958031\t            0.863175213490892
+        Blend\t             0.858035695189744\t            0.862905518926946
+        Lgb\t                 0.858317041469825\t            0.863074505262485
+        Cat\t                 0.857863255028339\t            0.862963988651526
+        Gb\t                 0.85764395340675\t            0.862235169025039
+        extrees\t             0.852989375588493\t            0.858409559658972
