@@ -28,7 +28,8 @@ Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
 
 <h4>LB Scores -</h4>
-                                Final Score                  Private Score
+                                 
+                                 Final Score                  Private Score
                                 
         Stack                   0.858303368958031            0.863175213490892
         Blend                   0.858035695189744            0.862905518926946
