@@ -1,5 +1,6 @@
-The notebooks contain baseline and final models used for the cross sell hackathon. 
+The notebooks contain baseline and final models for the cross sell hackathon.
 This Hackathon was organised by AnalyticsVidhya(link to dataset: https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/).
+
 
 
 ## Problem Statement
@@ -27,12 +28,11 @@ Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
 
 <h4>LB Scores -</h4>
-    
                                 Final Score                  Private Score
                                 
-        Stack\t             0.858303368958031\t            0.863175213490892
-        Blend\t             0.858035695189744\t            0.862905518926946
-        Lgb\t                 0.858317041469825\t            0.863074505262485
-        Cat\t                 0.857863255028339\t            0.862963988651526
-        Gb\t                 0.85764395340675\t            0.862235169025039
-        extrees\t             0.852989375588493\t            0.858409559658972
+        Stack                   0.858303368958031            0.863175213490892
+        Blend                   0.858035695189744            0.862905518926946
+        Lgb                     0.858317041469825            0.863074505262485
+        Cat                     0.857863255028339            0.862963988651526
+        Gb                      0.85764395340675             0.862235169025039
+        extrees                 0.852989375588493            0.858409559658972
