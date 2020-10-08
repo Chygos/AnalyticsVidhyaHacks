@@ -24,20 +24,21 @@ which were Lightgbm and Catboost models.
 
 Baseline Models (LB Scores)
 
-                          Final Score       Private Scores
-Cat bline	              42.7000109445113	42.5329847388581
-LGB bline	              42.4592316953048	42.4040858515231
-Gbm bline	              42.2056838495495	42.0490058977321
-extrees bline	          41.2717522162635	40.8925639934334
-Logreg bline	          40.5202291051038	39.9927038365659
+                                Final Score       Private Scores
+                          
+      Cat bline	              42.7000109445113	42.5329847388581
+      LGB bline	              42.4592316953048	42.4040858515231
+      Gbm bline	              42.2056838495495	42.0490058977321
+      extrees bline	          41.2717522162635	40.8925639934334
+      Logreg bline	          40.5202291051038	39.9927038365659
 
 
 Final Models (LB Scores)
 
-                                 Final Score                 Private Scores
-blend (lgb and cat)	          43.1396154828354	            42.8990089378002
-lgb1	                        42.8386414213272	            42.4746154313857
-cat1	                        43.0119295173471	            42.9427859184046
+                                      Final Score                 Private Scores
+      blend (lgb and cat)	          43.1396154828354	            42.8990089378002
+      lgb1	                        42.8386414213272	            42.4746154313857
+      cat1	                        43.0119295173471	            42.9427859184046
 
 ### Note:
 Predicting the length of stay of a patient is very difficult to estimate even for a human, hence the low accuracy is expected. 
