@@ -1,10 +1,10 @@
 The notebooks contain baseline and final models used for the cross sell hackathon. 
 This Hackathon was organised by AnalyticsVidhya(link to dataset: https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/).
 
-<h4>Problem Statement</h4>
+#Problem Statement
 
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to 
-<strong>predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.</strong>
+predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
 An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, 
 or death in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
